@@ -30,4 +30,3 @@ gem 'pg'
 #   gem 'webrat'
 # end
 
-gem 'fcgi'
