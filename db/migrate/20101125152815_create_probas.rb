@@ -1,7 +1,7 @@
 class CreateProbas < ActiveRecord::Migration
   def self.up
     create_table :probas do |t|
-      t.number :i
+      t.decimal :i
       t.string :s
 
       t.timestamps
